@@ -1,21 +1,19 @@
-# Bank-App
 
-Banking web application for balance enquiry, funds transfer and loan requests
+# E Banking System 
 
-## Deployment
-
-[Start the app](https://akrammikhael96.github.io/bank-app/)
+A banking web application for balance enquiry, funds transfer and loan requests.
 
 
+## Demo
 
-## Usage
+https://akrammikhael96.github.io/bank-app/
 
-**user 1 
-credentials :**    
-> username : **user1**  
-pin : **1111**
+![Bank App](https://github.com/akrammikhael96/bank-app/blob/master/preview.png?raw=true)
 
-**user 2 
-credentials :**    
-> username : **user2**  
-pin : **2222**
+## Users Credentials
+
+| Username                | Pin  |
+| :-------------------- | :-------- |
+| user1  | 1111 |
+| user2 | 2222 |
+
